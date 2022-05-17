@@ -1,4 +1,4 @@
-# Ordena-e-Busca-Binaria
+# Ordenacao-e-Busca-Binaria
 Praticando a busca binaria e ordenação Isertion sort
 
 - Busca Bimnaria recursiva.
